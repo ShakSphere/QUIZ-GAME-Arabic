@@ -4,6 +4,7 @@ body {
   animation: verticalBreathing 15s ease infinite;
   height: 100vh;
   overflow: hidden;
+  direction: rtl;
 }
 
 @keyframes verticalBreathing {
@@ -39,14 +40,17 @@ body {
   position: relative;
   top: 5%;
   left: 50%;
+  direction: rtl;
 }
 
 h1 {
   font-size: 35px;
+  direction: rtl;
 }
 
 p {
   font-size: 30px;
+  direction: rtl;
 }
 
 .answer-section {
@@ -58,6 +62,7 @@ p {
   row-gap: 30px;
   padding: 20px 40px;
   column-gap: 15px;
+  direction: rtl;
 }
 
 button {
@@ -72,6 +77,7 @@ button {
   cursor: pointer;
   border: none;
   text-align: center;
+  direction: rtl;
 }
 
 .showScore-section {
@@ -81,6 +87,7 @@ button {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+  direction: rtl;
 }
 
 @media all and (max-width: 700px) {

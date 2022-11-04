@@ -31,3 +31,6 @@ Click the buttons to answer the qustions
 ## Contact
 
 - GitHub [@AygunHajiyeva]([https://https](https://https/)://github.com/AygunHajiyeva)
+
+Arabic edit:
+- GitHub [@ShakShere] (https://github.com/ShakSphere/)
